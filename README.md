@@ -23,7 +23,7 @@ Shiv Nadar University Chennai.
 
 ## Introduction
 
-Our project aims to enhance the integrity, efficiency, and transparency of the voting process in India by leveraging blockchain technology. The E-GOV BALLOT DApp utilizes innovative cryptographic techniques, including ring signatures, homomorphic encryptionand EL-GAMMAL ie, double encryption, to guarantee a tamper-proof and secure voting system.
+Our project aims to enhance the integrity, efficiency, and transparency of the voting process in India by leveraging blockchain technology. The E-GOV BALLOT DApp utilizes innovative cryptographic techniques, including ring signatures, homomorphic encryption and EL-GAMMAL ie, double encryption, to guarantee a tamper-proof and secure voting system.
 
 This Dapp comes in 3 use cases. one is for the voters to cast their votes to candidates, 2nd one is or the candidates to view their status, 3rd one is for the admin, who logs in using the admin credentials and is in charge of deploying smart contracts.
 
